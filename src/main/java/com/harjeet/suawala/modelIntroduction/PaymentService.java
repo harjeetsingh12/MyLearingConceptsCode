@@ -7,8 +7,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 
-//creating the bean and object bu spring framwork/IOC container/ spring context
-//@Component
+//creating the bean and object by spring framwork/IOC container/ spring context
+@Component
 //@Service
 //@Repository
 //@Controller
